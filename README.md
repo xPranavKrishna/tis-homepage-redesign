@@ -12,6 +12,10 @@ A responsive single-page redesign of the Tula's International School homepage fo
 - Lucide React
 - Vercel-ready
 
+## Live Demo
+
+[View Live Website](https://tis-homepage-redesign-wine.vercel.app/)
+
 ## Implemented assessment requirements
 
 - Custom desktop cursor with hover reaction
